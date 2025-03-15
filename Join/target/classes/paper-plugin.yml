@@ -1,0 +1,6 @@
+name: Join
+version: '1.0-SNAPSHOT'
+main: org.babyibear.join.Join
+api-version: '1.21'
+authors: [ Fem Gevaria ]
+website: www.babyibear.com
